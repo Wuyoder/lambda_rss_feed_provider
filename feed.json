@@ -1,0 +1,35 @@
+{
+  "podcast": {
+    "lastBuildDate": "",
+    "title": "MinorParty",
+    "description": "",
+    "image": {
+      "url": "",
+      "title": "",
+      "link": ""
+    },
+    "link": "",
+    "author": "",
+    "copyright": "",
+    "email": "",
+    "language": "zh",
+    "type": "episodic",
+    "category_main": "Leisure",
+    "category_sub": "Crafts",
+    "explicit": false,
+    "episodes": [
+      {
+        "title": "",
+        "description": "",
+        "link": "",
+        "audio": "",
+        "creator": "",
+        "explicit": false,
+        "duration": "",
+        "image": "",
+        "episode": 1,
+        "type": "full"
+      }
+    ]
+  }
+}
